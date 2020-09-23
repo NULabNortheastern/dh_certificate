@@ -1,0 +1,80 @@
+ 
+     The Greek Index Project has been designed as an information
+access system for Greek manuscripts containing works written prior to
+A.D. 1600. The project was initiated in 1971 by Walter Hayes and has
+been directed by Robert Sinkewicz since 1985. It is owned and housed
+by the Pontifical Institute of Mediaeval Studies.
+ 
+     The data assembled by the project have been taken primarily
+from printed catalogues of Greek manuscript collections. For this
+purpose a microfilm collection of such catalogues was put together
+with the assistance of other research institutes. Over a period of
+fifteen years the data were extracted from these sources and arranged
+in an organized retrieval system. Because of the incomplete nature of
+many catalogues further research was done to identify entries for
+many authors or works. The system contains four primary files: an
+inventory of manuscripts with basic information on each one, an
+inventory of authors and another for works, and finally a file that
+provides manuscript listings for each authored work. Anonymous works
+are treated separately because of the special problems associated
+with this area.
+ 
+     The computerized section of the project is stored in an SQL
+database on an IBM 4361 mainframe operating under VM/CMS. Special
+data entry panels have been written to help assure accuracy and speed
+of data input. A set of utilities has also been written to allow a
+two-way transfer of data between dBase III PLUS and SQL. This enables
+us to use micros for data entry and correction in addition to
+offering collaborators at other sites to share our data in an
+electronic format.
+ 
+     By September 1988 the entire manuscript inventory will be
+computerized (approximately 100,000 records). In addition, the
+author, title and manuscript listing files will be available for the
+Late Byzantine Period (1261-1453), at least for the authors listed
+in the first eight fascicules of the "Prosopographisches Lexikon der
+Palaiologenzeit." In the fall of 1988 we will be ready to publish a
+first edition of the "Manuscript Listings for the Authored Works of
+the Palaeologan Period."  A second edition will be published when the
+"PLP" is completed. A "Studia Minora" series is also planned. This
+will be a series of shorter publications (30-40 pages each) devoted
+to individual authors of special interest or other minor research
+tools that we have assembled, such as a handlist of Greek manuscripts
+from the Phillipps collection. Two to five issues will be published
+each year for the next four years.
+ 
+     If funding of the project is continued, the remaining data
+for the earlier periods will be computerized over the next four
+years. In the meantime data on authors and works for those periods is
+being provided to students and scholars for the cost of the data
+entry of the information requested ($15 per hour).
+ 
+     The Greek Index Project is funded by the Social Sciences and
+Humanities Research Council of Canada. Support for our hardware and
+software installation has been provided by the Centre for Computing
+in the Humanities at the University of Toronto through a cooperative
+agreement with IBM Canada.
+ 
+Submitted by Robert E. Sinkewicz
+Pontifical Institute of Mediaeval Studies
+59 Queen's Park Crescent East
+Toronto, Ontario CANADA M5S 2C4
+</div>
+<div>
+From: MCCARTY@UTOREPASJohn J. Hughes &lt;XB.J24@Stanford&gt;
+Subject: Electronic OED (12 lines)
+Date: 25 November 1987, 19:22:11 EST
+X-Humanist: Vol. 1 Num. 455 (455)
+
+Some HUMANIST (whose name I have lost) recently inquired about
+the electronic version of the Oxford English Dictionary.
+According to a report in the CHRONICLE OF HIGHER EDUCATION
+(November 18, 1987, p. B60), Oxford University Press is putting
+all 22,000 pages and 500,000 definitions of the 16-volume OED on
+three CD-ROMs. The first two ROMs will contain the basic 12
+volumes and should be available by the end of 1987. The four
+supplementary volumes will be placed on a third ROM, for which no
+release date was given. A new printed edition of the OED that
+contains 5,000 additional words will be published "early in
+1989." A complete revision of the entire work is planned for
+1990.

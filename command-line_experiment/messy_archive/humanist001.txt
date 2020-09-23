@@ -1,0 +1,53 @@
+Having recently returned from this year's conference at the Waterloo
+(Ont) Centre for the New OED (topic: large text data-bases), I've
+been mulling over various details, theories, arguments, etc, which
+came up in the two days of the conference.  One thing which was
+of great interest was the tentativeness which seemed to me
+to be apparent about the use of CD-ROM for distributing and
+using large text-bases.  Publishers seemed a) reluctant to enter the
+marketplace with reference material on CD-ROM, because they
+felt (based on market research) that there was not a large
+enough demand (except perhaps among institutional users, such as
+gov't departments or university libraries);
+b) curious about what effect the new IBM WORM drive would have;
+c) worried about the need to provide new software and new formats for
+data to make it really useable in electronic form (that is, publishers
+seem very aware that electronically publishing a book is not so
+simple as to write the text on a CD-ROM and sell it -- that seems
+to have been one idea which emerged strongly from both the publishers'
+and the users' point of view during work on the New OED).
+ 
+And the users' community (or at least that part of it represented
+in Waterloo) seemed to be a bit ambivalent: they wanted CD-ROMs
+because they could be used on micro's rather than mainframes, and
+because they offered security and permanence which mag tape
+doesn't have.  But they wanted the textbases on those CD-ROMs to be
+structured differently from the text in the published reference
+works, and they wanted software based on the new structuring to
+be provided for information retrieval, etc, and they expected
+the CD-ROMs to be cheap:  they didn't seem to want to hear from
+the publishers that that latter goal was disconsonant with the
+first two, unless there was a huge demand for the finished
+product.
+ 
+One former publisher summed it up rather well by saying that
+what the industry (publishing) was waiting for was an electronic
+best-seller, something with a broad enough appeal to individual
+users to cause them to go out and buy CD-ROM readers and whose
+particular usefulness and accessibility was enhanced by the
+electronic medium in a way that no conventional medium could
+approach.
+ 
+I was very interested by all this, and I think I've summarized
+fairly the kinds of attitudes being expressed.  Many people,
+while not doubting the value of CD-ROM for long term data
+storage, doubted its value for day-to-day use, and everyone
+seemed to be waiting with great interest to see what would
+happen with MicroSoft's CD-ROM of Webster's, Roget, and three
+other standard reference works.
+ 
+I'm curious to know what other people think about all this.
+Are there HUMANISTs out there waiting with baited breath
+for the publication of the OED on CD-ROM?  Do people want
+and need textbases on CD-ROM rather than mag tapes? What
+do you think?

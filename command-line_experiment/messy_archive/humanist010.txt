@@ -1,0 +1,43 @@
+Humanities Research Center, 3060 JKHB, Brigham Young University
+Provo, Utah 84602, (Tel.) 8013783513
+ 
+I am a Professor of German and the Director of the Humanities
+Research Center at Brigham Young University.  I have been
+involved with using the computer in language research and
+instruction since my graduate student days at Princeton, 1964-68.
+My activities have included the development of language CAI,
+diagnostic testing with the computer, interactive video (I worked
+on the German VELVET program), computer assisted analysis of
+modern German and English and the development and use of
+electronic language corpora.  I have worked closely with the
+developers of WordCruncher (aka BYU Concordance) to make certain
+that the needs of humanists are properly met (e.g. foreign
+character sets, substring searches, etc.).
+ 
+In 1985 I organized (with the good assistance of my colleagues in
+the HRC) the 7th International Conference on Computers and the
+Humanities, which was held at BYU.  I am a member of the
+Executive Council of the Association for Computers and the
+Humanities, the Chairman of the Educational Software Evaluation
+Committee of the Modern Language Association, a member of the
+Committee on Information and Communication Technology of the
+Linguistic Society of America, and a member of the Editorial
+Board of "SYSTEM".  I have written articles and given lectures on
+many aspects of the computer and language research and
+instruction.
+</div>
+<div>
+From: 
+Subject: 
+Date: 
+X-Humanist: Vol. 1 Num. 362 (362)
+
+*Lane, Simon &lt;CPI047@IBM.SOUTHAMPTON.AC.UK&gt;
+ 
+Computing Service, University of Southampton, Highfield, Southampton,
+England.
+ 
+I am currently employed as a Programmer in the Computing Service
+at Southampton University, England, and have special
+responsibility for liaison with the Humanities departments within
+the University, and support of their computing needs.

@@ -1,0 +1,24 @@
+As an addendum to my earlier note about Abagail Young's query,
+CCAT has now received a copy of the MicroSoft DOS extension to
+permit the CD-ROM reader to be accessed as though it were just
+another disk drive on the IBM machine. We have been successful
+in reading the new TLG CD-ROM in this manner, which bodes well
+for future software development on such large bodies of material.
+Our present configuration is as follows:
+Sony CD-ROM reader with interface/controller card for IBM PC,
+Device Driver for the IBM (from Sony or from Discovery Systems),
+MS DOS extension licensed for $10 per drive through
+Discovery Systems, 7001 Discovery Blvd, Dublin OHIO 43017
+(tel 614-761-2000). [There are other vendors similarly licensed,
+I am sure. Discovery Systems was most convenient for us.]
+ 
+Now, with the proof that the new TLG CD-ROM format can be
+accessed with off the shelf products, CCAT will focus on
+the search and retrieval software to increase efficiency on
+the DOS machines, and on quality control of data to be
+included on CCAT CD-ROM productions. Some of the current
+developments will be displayed at the combined annual meetings of
+the American Academy of Religion and Society of Biblical
+Literature and American Schools of Oriental Research in Boston
+on 5-8 December 1987. Cooperation and other sorts of input
+are encouraged.

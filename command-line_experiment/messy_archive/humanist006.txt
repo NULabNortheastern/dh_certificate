@@ -1,0 +1,30 @@
+I have already received several responses to my question about a
+word processor for Sanskrit (Devanagari).  Thanks very much to
+all!
+ 
+Two correspondent suggested the Graphics Toolbox developed at
+Penn by Jack Abercrombie.  However, one of the two warned that
+when he had looked at it it used only a "lowest-
+common-denominator" CGA display so the quality of the display was
+not as good as he'd like, with a rather basic editor. The same
+correspondent discussed some work that had been done at
+Another correspondent pointed out that Multilingual Scribe
+offered Devanagari (but not Tamil).  Two other people suggested
+two pieces of software: one by a firm called LEABUS Ltd (114
+Brandon St. London SE17 1AL tel: 01-708-2756), and the other by
+Gamma Productions Ltd, 609-710 Wilshire Blvd, Santa Monica, CA
+90401 USA (213)394-8622.
+ 
+Another individual pointed me at James Nye's article entitled
+"Indic Fonts for Computer Printers" (in South Asian Library Notes
+and Queries 18 (Sprint 1985)).
+ 
+Several people remarked that the Macintosh was a more natural
+machine for this type of work.  I agree -- but our client here
+already has an IBM PC and wishes to use it for this work.  Of the
+people who have responded, none seemed to have used the software
+they were describing -- they were (kindly) passing on what they
+had heard.
+ 
+Other people gave me a couple of other interesting leads. After I
+have investigated them further, I'll post another note.

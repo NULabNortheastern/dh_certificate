@@ -1,0 +1,14 @@
+I'd appreciate a little information:  I've been talking to
+someone here at U of T who wishes to produce a document with
+Western European language text mixed with Sanskrit (written
+with the Davanagari script).  I believe they want Telugu
+and Tamil as well.  They will be using an IBM PC.
+ 
+Does anyone out there have a happy experience with any software
+and hardware for an IBM PC that will support this?  We haven't
+been able to lay our hands on a definitive list of languages
+and character sets that Nota Bene will be supporting.  What other
+choices are there?
+ 
+I'd appreciate a reply directed to me, but will summarize for
+HUMANIST, if there is general interest.

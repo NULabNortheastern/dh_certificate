@@ -1,0 +1,51 @@
+The Center for Computer Analysis of Texts is pleased to announce
+the availability of our Graphics library for EGA, CGA and Hercules
+displays.  We are willing to provide interested colleagues
+with the essential routines to display foreign fonts on
+these adapters.  In addition, we will provide you with the following
+initial fonts: Arabic, Armenian, Cyrillic, Devanagari, Greek, Hebrew,
+Phonetics, Punic, and Roman.   The routines are written in Turbo
+Pascal and Assembler.  We will send you a demonstration program with
+including source code.  If you are interested in adding this facility to
+already written programs or new ones, you will have to agree to
+the following conditions:
+ 
+    1. Not to redistribute the demo disk to others.  Other
+       colleagues may receive copies from the Center.
+ 
+    2. To give appropriate scholarly recognition to the
+       Center and its staff for this work.
+ 
+    3. To share any developments or resulting programs
+       with the University of Pennsylvania at no cost
+       and under University License Agreement.
+ 
+If you agree to all these conditions, we will provide you with
+the full library and additional documentation.  We will coordinate
+updates and share with you any and all improvements.i
+In addition, we have an opportunity to organize a small workshop on
+Graphics display if there is sufficient interest.
+ 
+SELECTED LIST OF ROUTINES IN THE FULL LIBRARY:
+ 
+       Window management
+       Pop-up menus
+       Microsoft mouse support
+       TIFF support
+       HPLaserJet interfaces
+       Graphics display
+       Selected application program for graphics support
+ 
+The cost of obtaining a demo disk will be $20.  This nominal
+charge covers shipping and handling of the diskette only.
+ 
+JACK ABERCROMBIE
+ASSISTANT DEAN FOR COMPUTING,
+DIRECTOR OF THE CENTER FOR COMPUTER ANALYSIS OF TEXTS,
+UNIVERSITY OF PENNSYLVANIA
+ 
+JACKA @ PENNDRLS
+ 
+Center address:   CCAT
+                  Box 36 College Hall
+                  Philadelphia, PA 19104

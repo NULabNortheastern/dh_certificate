@@ -1,0 +1,36 @@
+I am a linguist (Ph.D. 1983, Laval, in differential linguistics,
+for a study of formal mechanisms of antonymy in English and
+French).  I have been teaching in the Department of French
+Studies at Queen's since 1978 and have been involved in
+humanities computing for several years now, in a variety of
+areas:
+ 
+1) computer-aided analysis of literary texts.  In 1986 Agnes Whitfield
+   and I gave a paper at the annual meeting of the "Association canadienne-
+   francaise pour l'avancement des sciences" where we used a computer
+   analysis to compare two novels by Michel Tremblay and Victor-Levy
+   Beaulieu, respectively.  Agnes is also in French Studies.
+ 
+2) production of computer-readable texts.  For the past year or so, I
+   have participated in a group project in the Department of French
+   Studies at Queen's which involves the entry into the mainframe of
+   computer-readable texts by means of a Kurzweil data entry machine.
+ 
+3) concordance production.  J.-J. Hamm (of Queen's) and I are working
+   on a concordance of the novel "Armance" by Stendhal.
+ 
+4) linguistic analysis.  I make heavy use of the computer in my work
+   analysing errors in student texts produced in French.
+ 
+5) annotation.  Diego Bastianutti (of Queen's) and I are working in the
+   area of annotation as a teaching tool in the humanities.  We gave
+   a paper at this year's Learned Societies where we outlined our research
+   and presented a prototype of an annotation facility based on the word
+   processing program "PC-Write".
+ 
+6) computer-aided instruction.  With a group of colleagues in the languages
+   and in computer science at Queen's, I am working on an intelligent
+   computer-aided instruction system for French, other Romance languages,
+   and eventually a variety of other languages as well.  We are in the
+   second year of this multi-year project, funded in part by the Ministry
+   of Colleges and Universities of Ontario.

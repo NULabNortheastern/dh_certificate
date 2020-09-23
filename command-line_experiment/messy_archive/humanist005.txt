@@ -1,0 +1,40 @@
+Abagail Young's instructive report on the Waterloo discussions,
+and her inquiry about our attitudes, provide a good opportunity
+to update HUMANISTs about the activities of the Center for
+Computer Analysis of Texts (CCAT), in cooperation with the
+Packard Humanities Institute (PHI) and the Thesaurus Linguae
+Graecae (TLG), as well as others, on such matters.
+ 
+Some TLG ancient Greek materials have been available on CD-ROM
+for two years, in two different forms, and have now been
+supplemented and updated in a new release. Persons with access
+to the IBYCUS Scholarly Computer (SC) system, which is set up to
+read CD-ROMs in the TLG format, will know how valuable this type
+of material is with the right hardware and software. The earlier
+TLG CD-ROM materials also appeared in an indexed version for
+accessing through programs developed at Brown (Paul Kahn) and
+Harvard (Gregory Crane), with impressive results, although I
+do not have any first hand experience with this approach.
+ 
+The most recent TLG CD-ROM (version "C") is set up in the
+provisional "High Sierra" format released last year, and it is
+the intention of TLG-PHI-CCAT to be "High Sierra" compatible
+in future releases with the hope that standard CD-ROM software
+can be used to access these texts from a variety of machines.
+CCAT is also developing software for the IBM-type machines
+to work with the TLG CD-ROM and the forthcoming CCAT-PHI CD-ROM.
+Thus far, CCAT has tried to obtain software from other sources
+that would work on the new TLG CD-ROM on the IBMs, but has not
+found such (it is still early).
+ 
+Meanwhile, CCAT and PHI are producing a CD-ROM of biblical and
+Latin materials, plus a wide sampling of other material from
+various sources, to encourage researchers to test this medium
+of data circulation. This CD-ROM should be available at very
+modest cost by the end of next month (December). This disk will
+be compatible with the new TLG disk, and thus will run immediately
+on the IBYCUS SC (with updated software). As CCAT and other
+developers produce software, these disks will be accessible on
+other hardware as well. CCAT will also put some of the texts on
+WORM disks to test that approach. Further details will be
+forthcoming, probably in December.
