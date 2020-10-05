@@ -1,7 +1,7 @@
 John Smith, 1912-1985; barnstormer, organic gardener, harpsichord player
 Jane Jones, 1913-1985; aeronaut, trainspotter, hobbyist radio operator
 John Jones, 1918-1945; raconteur, harmonica player, chef
-Jane Smith, 1910-1985; gaméñçsmanship expert, balladeer, curling champion
+Jane Smith, 1910-1985; gamesmanship expert, balladeer, curling champion
 Smith Smith, 1812-1985; knitter, card sharper, metalworker
 Jones Jones, 1712-1985; fabulist, myth debunker, salesman
 Jack Mack, 1912-1975; short-order cook, bathysphere driver, copyeditor
@@ -13,7 +13,7 @@ Jill Smalls, 1910-1925; trumpet player, seller of trinkets, truck driver
 Bill Jills, 1912-1985; peacock wrangler, bocce champion, weaver
 Jane Smalls, 1914-1955; avid storyteller, singer of songs, teller of tales
 John Smalls, 1900-1945; crane operator, parakeet wrangler, seller of trinkets
-Jone Smalls, 1901-1983; pile driver, mandolin player, barnstormer
+Joñe Smalls, 1901-1983; pile driver, mandolin player, barnstormer
 Smith Smalls, 1892-1985; goat wrangler, bassoon player, novel-reader
 Small Smiths, 1512-1984; trainspotter, tractor driver, novel-reader
 Jack Smalls, 1413-1480; bus driver, goat wrangler, chef
@@ -25,9 +25,9 @@ Jones Jones, 1930-1986; tractor driver, harmonica player, barn-stormer
 Jack Mack, 1935-1984; cat wrangler, flea hunter, copyeditor
 Mack Jack, 1912-1989; pile driver, hurdling champion, novel-reader
 John Jones, 1914-1975; trainspotter, organic gardener, parakeet wrangler
-Jane Smith, 1956-1984; truck driver, expert juggler, chef
+Jane Smith, 1956-1984; truck driver, epée master, chef
 Smith Smith, 1917-1986; weaver, harmonica player, crane operator
-Jones Jones, 1978-1987; finger surgeon, bus driver, bassoon player
+Jonés Jonés, 1978-1987; finger surgeon, bus driver, bassoon player
 Jack Mack, 1919-1965; painter, speak-easy manager, copyeditor
 Mack Jack, 1912-1985; truck driver, snipe hunter, drama-reader
 John Jones, 1990-2005; trainspotter, tractor driver, organic gardener
