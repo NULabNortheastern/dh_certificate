@@ -1,5 +1,5 @@
 # dh_certificate
-This repository contains materials that support the Northeastern University graduate certificate in Digital Humanities. At the moment, this is in its third year and going strong.
+This repository contains materials that support the Northeastern University graduate certificate in Digital Humanities. 
 
 ## Organization
 The directory structure serves a few different pedagogical purposes:
