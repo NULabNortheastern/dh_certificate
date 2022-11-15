@@ -2,6 +2,6 @@ Sarah Connell is from New Hampshire.
 
 Her favorite author is Christopher Brookmyre.
 
-Her favorite color is green.
+Her favorite color is grey.
 
 Her favorite TEI element is <floatingText>. 
