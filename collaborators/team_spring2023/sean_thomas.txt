@@ -1,0 +1,8 @@
+Sean P. Thomas is From San Antonio
+
+His favorite author is 
+
+His favorite color is green
+
+His favorite TEI element is <abr>.
+    
