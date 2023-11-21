@@ -1,0 +1,7 @@
+Janika Dillon is from Utah. 
+
+Her favorite author is Willa Cather.
+
+Her favorite color is green.
+
+Her favorite TEI element is <howdy>. 
