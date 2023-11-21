@@ -1,7 +1,7 @@
-Sarah Connell is from New Hampshire. 
+Sam is from the middle of nowhere Massachusetts. 
 
-Her favorite author is T. Kingfisher, who also writes as Ursula Vernon.
+She is a Jane Austen fanatic.
 
-Her favorite color is green.
+Her favorite color is pink, because she is basic.
 
-Her favorite TEI element is <floatingText>. 
+She does not know how to use TEI. 
