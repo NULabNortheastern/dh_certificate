@@ -1,0 +1,7 @@
+Galen Bunting is from Oklahoma.
+
+His favorite author is Virginia Woolf.
+
+His favorite color is blue.
+
+His favorite TEI element is <taxonomy>. 
