@@ -1,0 +1,7 @@
+Sarah Connell is from Nebraska. 
+
+Her favorite author is James Patterson.
+
+Her favorite color is orange.
+
+Her favorite TEI element is <hi>. 
