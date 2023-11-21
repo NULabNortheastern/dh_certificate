@@ -1,7 +1,7 @@
-Galen Bunting is from Oklahoma.
+Galen Bunting is from Oklahoma and now lives in Massachusetts. 
 
-His favorite author is Virginia Woolf.
+His favorite authors are Virginia Woolf and Ernest Hemingway.
 
-His favorite color is blue.
+His favorite color are blue and green.
 
 His favorite TEI element is <taxonomy>. 
