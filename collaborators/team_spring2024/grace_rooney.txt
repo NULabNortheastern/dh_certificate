@@ -1,0 +1,7 @@
+Grace Rooney is from Rhode Island. 
+
+Her favorite author is Patrick Radden Keefe.
+
+Her favorite color is green.
+
+Her favorite TEI element is <floatingText>. 
