@@ -1,0 +1,7 @@
+Kehinde Ilegbusi is from Southwestern Nigeria. 
+
+His favorite author is Olufunke Adeboye.
+
+His favorite color is black.
+
+His favorite TEI element is <floatingText>. 
