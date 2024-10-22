@@ -1,0 +1,7 @@
+Sarah Connell is from New Hampshire. 
+
+Her favorite author is Caimh McDonnell.
+
+Her favorite color is green.
+
+Her favorite TEI element is <floatingText>. 
