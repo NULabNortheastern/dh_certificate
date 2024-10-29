@@ -4,4 +4,4 @@ Her favorite author is T. Kingfisher, who also writes as Ursula Vernon.
 
 Her favorite color is grey.
 
-Her favorite TEI element is <floatingText>. 
+Her favorite TEI element is <floatingText> but not really.
