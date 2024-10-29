@@ -4,4 +4,4 @@ Their favorite author was Neil Gaiman, but he really ruined that for everyone. #
 
 Their fave color is purple.
 
-Her favorite TEI element is <back>. 
+Their favorite TEI element is <back>. 
