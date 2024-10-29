@@ -1,0 +1,7 @@
+ThankGod Ahumibe is from Nigeria.
+
+His favorite author is Chinua Achebe.
+
+His favorite color is green.
+
+His favorite TEI element is <emph>. 
