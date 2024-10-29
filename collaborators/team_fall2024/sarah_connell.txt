@@ -1,7 +1,7 @@
 Sarah Connell is from New Hampshire. 
 
-Her favorite author is Caimh McDonnell.
+Her favorite author is T. Kingfisher, who also writes as Ursula Vernon.
 
-Her favorite color is green.
+Her favorite color is grey.
 
 Her favorite TEI element is <floatingText>. 
