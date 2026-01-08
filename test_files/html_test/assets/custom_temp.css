@@ -1,0 +1,38 @@
+/* Here is where we can add to or modify project-specific CSS; it has some defaults that you can feel free to modify. Look at the sample.css file
+ * to see more examples of what you can do with CSS */
+tei-titleStmt > tei-title:first-of-type { font-size: inherit; }
+tei-interp, tei-imprimatur, tei-docImprint, tei-div, tei-body, tei-titlePart {display:block}
+tei-fw, tei-head tei-lb, tei-l tei-lb {display:none}
+.link-from-note {
+  float: left;
+  margin-left: 0.25em;
+  margin-right: 0.5em;
+  font-size: 0.95em;}
+
+ 
+/* Replace the below with your specific categories and color choices to have your analyses appear in the selected colors; there are some bonus colors at the 
+ * bottom, and you can also see more here: https://www.w3schools.com/cssref/css_colors.asp */
+*[ana="#animal"] {color:BlueViolet}
+*[ana="#disease"] {color:Red}
+*[ana="#nature"] {color:Green}
+*[ana="#religion"] {color:Orange}
+*[ana="#alliteration"] {color:DarkMagenta}
+*[ana="#idiom"] {color:Aqua}
+*[ana="#"] {color:Blue}
+*[ana="#"] {color:Brown}
+*[ana="#"] {color:Orchid}
+*[ana="#"] {color:DarkBlue}
+*[ana="#"] {color:Pink}
+*[ana="#"] {color:DarkMagenta}
+*[ana="#"] {color:PowderBlue}
+*[ana="#"] {color:MediumVioletRed}
+*[ana="#"] {color:Maroon}
+*[ana="#"] {color:Olive}
+*[ana="#"] {color:SteelBlue}
+*[ana="#"] {color:Teal}
+*[ana="#"] {color:LightSlateGray}
+*[ana="#"] {color:Gold}
+*[ana="#"] {color:Red}
+*[ana="#"] {color:LawnGreen}
+*[ana="#"] {color:Red}
+*[ana="#"] {color:Purple}

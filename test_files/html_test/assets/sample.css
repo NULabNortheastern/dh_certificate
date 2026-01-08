@@ -1,0 +1,32 @@
+/* This CSS file has some examples of options you may want to use for your publication; if you wish to use or modify 
+ * any of these, copy them from here and into the custom.css file in this same folder. You can see more on CSS properties and 
+ * values here: https://wwp.northeastern.edu/outreach/seminars/_current/handouts/css_cribsheet.xhtml   */
+
+/* Center-aligning elements  */
+tei-fw {text-align:center}
+
+/* Uppercasing elements  */
+tei-head {text-transform:uppercase}
+
+/* Italicizing elements; also, applying the same styling to more than one element  */
+tei-emph, tei-hi {font-style:italic}
+
+/* Specifying multiple forms of styling on the same element; for example, center aligning and also uppercasing  */
+tei-closer {text-align:center; text-transform:uppercase}
+
+/* Suppressing elements so they don't show up at all  */
+tei-lb {display:none}
+
+/* Changing font size; also applying the same styling to any element with a particular attribute value */
+*[rendition="#DIC"] {font-size:150%}
+
+/* Applying a particular styling only to elements that are descendants of other specific elements (in this case, only <stage> elements inside of <sp>s) */
+tei-sp tei-stage {text-align:left; display:inline}
+
+/* Having a particular element show up on a new line */
+tei-interp {display:block}
+
+
+
+
+
