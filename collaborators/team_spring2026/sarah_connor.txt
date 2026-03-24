@@ -1,0 +1,7 @@
+Sarah Connor is from Georgia. 
+
+Her favorite author is C.K. McDonnell, who also writes as Caimh McDonnell.
+
+Her favorite color is magenta.
+
+Her favorite HTML element is <h5>.
