@@ -1,7 +1,7 @@
-Sarah Connell is from New Hampshire. 
+Iris is from Beijing. 
 
-Her favorite author is T. Kingfisher, who also writes as Ursula Vernon.
+Her favorite author is Virginia Woolf.
 
-Her favorite color is blue.
+Her favorite color is white and blue.
 
-Her favorite TEI element is <floatingText>.
+She just started her journey in DH.
