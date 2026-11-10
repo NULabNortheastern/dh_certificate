@@ -1,0 +1,7 @@
+Keir Nason is from North Carolina. 
+
+His favorite author is Deniz Camp. 
+
+His favorite color is Purple!
+
+His favorite TEI element is also <floatingText>. How fun!
